@@ -2,6 +2,7 @@
   "name": "react-node-app",
   "version": "1.0.0",
   "description": "sample react app",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server/index.js",
